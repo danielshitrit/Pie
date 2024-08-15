@@ -2,7 +2,7 @@
 
 Custom view for Android that displays a pie chart. This library allows you to create a pie chart with customizable colors, segment data, and labels. It also includes interactive features such as selecting segments and displaying detailed information in a dialog.
 
-![Screenshot_pieChart](https://github.com/user-attachments/assets/ac972c59-c3ea-40cc-afff-2183845d95d8)  ![Screenshot_item3](https://github.com/user-attachments/assets/e39e2ec8-18ce-4451-a125-5a7b77696968)
+<img width="197" alt="Screenshot 2024-08-16 at 0 08 11" src="https://github.com/user-attachments/assets/6fc7f2af-37ef-46b3-bdfa-3197f2cf02cf"> <img width="197" alt="Screenshot 2024-08-16 at 0 08 23" src="https://github.com/user-attachments/assets/b7d245bd-048d-48e8-b4d5-b7f38f0f301d">
 
 ## Features
 
@@ -36,7 +36,7 @@ Custom view for Android that displays a pie chart. This library allows you to cr
          }
      }
      ```
-
+     
 ## Usage
 
 ### Initialize the View
@@ -76,6 +76,8 @@ public class MainActivity extends AppCompatActivity {
         pieChartView.setChartBackgroundColor(Color.WHITE);
     }
 }
+```
+## Video
 
 ![3E3F2DC5-E3B2-42B7-A3BF-0212E14AFB5F_1_102_o](https://github.com/user-attachments/assets/c4fff20c-d212-4b91-af12-4f7a8363936a)
 
